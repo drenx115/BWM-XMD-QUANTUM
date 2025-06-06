@@ -60,7 +60,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "27796742970",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -95,11 +95,11 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "CYBER",
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61U2Y6jOBT9F78mavYtUkkNIQlUoLKQhWQ0Dw6YJaxlmxDSqn9vkaqaLs30dNdIw5Oxretzzj3nfgNllRI0Rx0YfQM1Ti+Qon5JuxqBETCaKEIYDEEIKQQjUDkycuTziVsdO6adl65wuiS4yxq/xUcxn92sGfGcA59a2QN4GYK6OeVp8IuCM5Syvi4Vujdz5Vuyd5j1XMaFsl9sn/K8MzYWOufL49H3xQfw0leEKU7LeFInqEAY5nPULWGKPwffdbZnduy2A+Q68URmreRqqfP4tKvKdRE6683Ym231pRDNPgn/2u1Ye1MSGybV801xNZWL4+ygcAEcoz097yy/3p+fWak9vMInaVyi0A5RSVPafVp3YtJLaIUubhfKkt84FRG5YKXJ9eG6btzFzD7HrmgPpm02+Rxwfjq48JGt49VROCnaqt7MWkqMDi4yeTmtQ7auvdUgWAg5+Qh8id+9kv0X3eem6T/atwoqJT1MTFycpItrM9ebpjNCe1tPDcvmZ/u6E+zPwVfUQZC42jY5+ZF7uNVKFgdrM2w7uTKUJ3/hJtdxsno8qdv2B3xIG/wrlKE9Y4MpW4g7UbsKZgBP5jw7w1l+fraMsOSLkvjz05nhjJP15BPzGJgMMbUKRadzZ3TqudL3Gj57WJiSujhK0u66SlcPd0YZ6uwQjLiXIcAoTgnFkKZVed+ThwCGFw8FGNG7umCmllDP6iCvmOhoTjI/9gSmXJPdVGBay/dW6ySXwixKF/YDGIIaVwEiBIVWSmiFOxcRAmNEwOiPe6N6zhgVFUWPadg3X1E0WRF5TWG/ki9tAimBdf2lRBQMQYSrwkVgRHGDhuB+fyzzpjzVTXaiCrwiaooiGqykT6cGx5sSP+4JFq9vbtICEQqLGow4RdR4VhYF+WX4v8AwWMFkTZ5TBFMyWZYVWGkyMU2F11lhzCnsb2H8OQQlutJXE/fSC9wQRCkmdFs2dV7B8N3h74cwCKqmpF5XBuN+gTAYfdhGlKZlTHpiTQlxkKQXNO55gFEEc4L+6jbCKHzn8jbBxlXYm1DfcdLTXrJBj70v9HdpRtI/xcnvlziBYwVJUVSWk0ReHElf+/0hKGFfCQTdCeFekze0ffEQUZjmpO+pM+Brk10Vh8Zp48PBGOv6XNd7O72ze4/Mqye3gy0M0E3DIrLjKXPOBydO5ZPE6lZkSYONcC4t3+saY1X9rAgYAU/QAzfbhCWzTj2Vog1WveYWSHCLROQIHfb1liuOsnQmx83j6aK0lu2ZCdksD0t1UdnPB3hVg/WRTHLWc6aRElRrs8/XEITokgbo42OxpfswXa7b2D/g3XOwGhys3WxgNmvRCbstRQPPUTM/MT2re9Ts3a25tgmTNamsTFsuo/sdEzBbno0e1aPgBKvtDSux/hrm+zDJ34Z4+paz9P4bpeg+E9968Js+vsLuzca+DD9UeJux/zKnjN0yn5UWYeDASm0jEqWo0KKn6rBWM8dU/IkmSleOJTjezsFL7/o6hzSqcAFGAJYhru42wVXTu9cuo+oXj40N2zbfhlgOCdV/JOJnIRNeby1xVVuQJL1L52Jiib29O72uPQrpe8CA3n/mAoGX75pyNKqICAAA",
       "value": "",
       "required": true
     },    
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "3",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
